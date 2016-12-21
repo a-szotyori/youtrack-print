@@ -1,6 +1,4 @@
-# youtrack-print
-
-## Print square YouTrack tickets
+# Print square YouTrack tickets
 
 Search for the issues you want to print and click the print button.
 
