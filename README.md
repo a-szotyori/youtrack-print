@@ -1,5 +1,7 @@
 # Print square YouTrack tickets
 
+*Requirements:* YouTrack 7.0, Chrome 55+ and a printer
+
 Search for the issues you want to print and click the print button.
 
 ![Select the issues to print](https://raw.githubusercontent.com/a-szotyori/youtrack-print/master/readme_images/select_issues.png)
